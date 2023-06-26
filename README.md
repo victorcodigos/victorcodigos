@@ -1,9 +1,18 @@
 ### Hi there 👋
 My name is Victor, I'm 26 years old and I love programming!
-I'm currently studying web development, and I'll learn even more things!
+I'm currently studying web development, always looking to seeking more :D 
 
 
-### Languages and Tools:
+### 📫 How to reach me: ...
+  
+<p align="center">
+   <a href = "victor.macedo.dedeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/victor-macedo-4a8901210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+
+
+  ### Languages and tools that I will get ready soon: ![DownloadGIF](https://github.com/victorcodigos/victorcodigos/assets/102881802/a641d0e9-31b6-4d13-832d-224506fba028)
 
  <p align="center">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,8 +40,3 @@ I'm currently studying web development, and I'll learn even more things!
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
 
-- 📫 How to reach me: ...
-  
-<p align="center">
-   <a href = "victor.macedo.dedeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/victor-macedo-4a8901210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
