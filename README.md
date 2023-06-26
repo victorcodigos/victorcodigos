@@ -1,11 +1,13 @@
 ### Hi there 👋
-My name is Victor, I'm 26 years old and I love programming!
-I'm currently studying web development, always looking to seeking more :D 
+--
+# My name is Victor, I'm 26 years old and I love programming!
+# I'm currently studying web development, always looking to seeking more :D 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
 
 
-### 📫 How to reach me: ...
+### 📫 How to reach me:
+--
   
 <p align="left">
    <a href = "victor.macedo.dedeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
