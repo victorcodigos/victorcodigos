@@ -12,7 +12,8 @@ I'm currently studying web development, always looking to seeking more :D
 
 
 
-  ### Languages and tools that I will get ready soon: ![DownloadGIF](https://github.com/victorcodigos/victorcodigos/assets/102881802/a641d0e9-31b6-4d13-832d-224506fba028)
+  ### Languages and tools that I will get ready soon: 
+  ![DownloadGIF](https://github.com/victorcodigos/victorcodigos/assets/102881802/a641d0e9-31b6-4d13-832d-224506fba028)
 
  <p align="center">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
