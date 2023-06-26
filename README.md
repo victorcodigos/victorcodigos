@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
 
 
-### 📫 How to reach me:
+### 🧑‍💻 How to reach me:
 
 🔭 I’m currently studying web devolopment!
 
