@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me:
 
-📩 How to reach me **victor.macedo.dedeus@gmail.com**
+📩 Please, send me an email: **victor.macedo.dedeus@gmail.com**
   
 
   ### Languages and tools that I will get ready soon: 
@@ -39,7 +39,7 @@
       
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg) 
 
-<p align="left">
+<p align="center">
    <a href = "victor.macedo.dedeus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/victor-macedo-4a8901210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/victorcodigos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
