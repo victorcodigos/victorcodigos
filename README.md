@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 --
-# My name is Victor, I'm 26 years old and I love programming!
-# I'm currently studying web development, always looking to seeking more :D 
+### My name is Victor, I'm 26 years old and I love programming!
+### I'm currently studying web development, always looking to seeking more :D 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
 
