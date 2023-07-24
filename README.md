@@ -24,6 +24,7 @@
   <img align="center" alt="Rafa-Mongodb" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-VisualStudio" height="30" width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
   <img align="center" alt="Rafa-netlify" height="30" width="30" src="https://cdn.svgporn.com/logos/netlify.svg">
+   <img align="center" alt="slack" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Rafa-Slack" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="git" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Rafa-github" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
