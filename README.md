@@ -1,4 +1,4 @@
-## Hi there 👋
+## <h1>Hi there <img alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
 ### My name is Victor, I'm 26 years old and I love programming!
 🧑‍💻 I’m currently studying web devolopment!
@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
 
 
-### 📫 How to reach me:
+### <h2> 📫 How to reach me: </h2> 
 
-📩 Please, send me an email: **victor.macedo.dedeus@gmail.com**
+📩 Please, send me an email: **victor.macedo.dedeus@gmail.com** 
   
 
-  ### Languages | Tools
+  ### <h2>Tech skills and abilities: <img aligh="left" alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1598815727/10343/arrow-down.gif?1598815727" width="30"/> </h2> 
 
  <p align="center">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
