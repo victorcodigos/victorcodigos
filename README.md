@@ -36,6 +36,7 @@
   <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
    <img align="center" alt="postman" height="30" width="40" src="https://cdn.cdnlogo.com/logos/p/20/postman.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain.svg">
+  <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   
   
