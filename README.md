@@ -1,4 +1,4 @@
-## <h1>Hi There <img alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
+## <h1>Hi there <img alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
 ### My name is Victor, I'm 26 years old and I love programming!
 🧑‍💻 I’m currently studying web devolopment!
