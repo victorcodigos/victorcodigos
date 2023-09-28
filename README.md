@@ -1,4 +1,4 @@
- <h1>Hello! <img alt="sobre a imagem" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
+# Full Stack Developer - MERN
 
 ## About Me:
 
@@ -7,12 +7,13 @@ allowing me to create end-to-end web applications, from the backend to the user 
 
 ## Polyglot:
 I am fluent in three languages: my native Portuguese, as well as English and Spanish. This enables me to collaborate and communicate effectively in various global contexts.
-<img align="center" alt="Brasil" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/630/630591.png">
-<img align="center" alt="Ingles" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/4060/4060233.png">
-<img align="center" alt="Spanish" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/206/206724.png">
+<img align="left" alt="Brasil" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/630/630591.png">
+<img align="left" alt="Ingles" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/4060/4060233.png">
+<img align="left" alt="Spanish" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/206/206724.png">
 
-## My Skills
-Web Development: I have a solid background in web development using the MERN stack. I create robust and dynamic applications that deliver excellent user experiences.
+## Process
+Web Development: I have a solid background in web development using the MERN stack. I have create robust and dynamic applications that deliver excellent user experiences.
+I will continue to explore new programming languages to expand my knowledge and stay updated on the ever-evolving technology industry.
 
 ## Main Skills
 - JavaScript
@@ -58,4 +59,4 @@ Web Development: I have a solid background in web development using the MERN sta
     <a href="https://www.linkedin.com/in/victor-macedo-4a8901210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://github.com/victorcodigos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcodigos" alt="victorcodigos" /> </p>
