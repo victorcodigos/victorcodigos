@@ -6,11 +6,11 @@
 allowing me to create end-to-end web applications, from the backend to the user experience on the front end.
 
 ## Polyglot:
-I am fluent in three languages: my native Portuguese, as well as English and Spanish. 
-This enables me to collaborate and communicate effectively in various global contexts.
 <img align="left" alt="Brasil" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/630/630591.png">
 <img align="left" alt="Ingles" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/4060/4060233.png">
 <img align="left" alt="Spanish" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/206/206724.png">
+I am fluent in three languages: my native Portuguese, as well as English and Spanish. 
+This enables me to collaborate and communicate effectively in various global contexts.
 
 ## Process
 Web Development: I have a solid background in web development using the MERN stack. I have create robust and dynamic applications that deliver excellent user experiences.
