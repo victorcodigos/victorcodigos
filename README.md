@@ -24,6 +24,7 @@ I will continue to explore new programming languages to expand my knowledge and 
 - Mongoose
 - Node.js
 - Express.js
+- Sequelize
 
   ### Tech skills and abilities:
 
