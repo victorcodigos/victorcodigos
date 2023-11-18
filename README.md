@@ -1,6 +1,6 @@
 # Full Stack Developer 
 
-## About Me:
+## About me:
 
  I'm Victor Macedo, a passionate about technology. I am graduate in Full Stack MERN development,
 allowing me to create end-to-end web applications, from the backend to the user experience on the front end.
