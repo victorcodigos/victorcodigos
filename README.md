@@ -20,7 +20,7 @@ This enables me to collaborate and communicate effectively in various global con
 Web Development: I have a solid background in web development using the MERN stack. I have create robust and dynamic applications that deliver excellent user experiences.
 I will continue to explore new programming languages to expand my knowledge and stay updated on the ever-evolving technology industry.
 
-## Main skills:
+## Main Skills:
 - JavaScript
 - React
 - MySQL
